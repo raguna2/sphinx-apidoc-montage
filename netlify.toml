@@ -1,0 +1,4 @@
+[build]
+  base    = "graphql-api"
+  publish = "graphql-api/_build/html"
+  command = "sphinx-build source build"
